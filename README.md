@@ -18,7 +18,7 @@
 ## Requerimientos
 Si no tiene una instalación de Java válida, el juego no se iniciará. MPR Launcher requiere Java 8 x64 superior a la actualización 52.
 
-Descarga Java 8 x64 desde <a href="http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html">Oracle</a>.
+Descarga Java 8 x64 desde <a href="http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html" target="_blank">Oracle</a>.
 
 ### Instalación automática de Java
 El Launcher le dará la opción de descargar automáticamente una versión válida de Java si no encuentra una. Lo descargará en la ruta .mundopixelmonr/runtime/x64 como una instalación local (solo para el Launcher). Recomendamos utilizar esta opción.
